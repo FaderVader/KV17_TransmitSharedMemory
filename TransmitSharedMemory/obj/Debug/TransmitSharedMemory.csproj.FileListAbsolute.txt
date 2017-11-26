@@ -1,0 +1,17 @@
+F:\GOOGLEDRIVE\VS_PROJECTS\WORK\Vizrt_SHM\TransmitSharedMemory\TransmitSharedMemory\obj\Debug\TransmitSharedMemory.csprojResolveAssemblyReference.cache
+F:\GOOGLEDRIVE\VS_PROJECTS\WORK\Vizrt_SHM\TransmitSharedMemory\TransmitSharedMemory\obj\Debug\TransmitSharedMemory.Properties.Resources.resources
+F:\GOOGLEDRIVE\VS_PROJECTS\WORK\Vizrt_SHM\TransmitSharedMemory\TransmitSharedMemory\obj\Debug\TransmitSharedMemory.TransmitToViz.resources
+F:\GOOGLEDRIVE\VS_PROJECTS\WORK\Vizrt_SHM\TransmitSharedMemory\TransmitSharedMemory\obj\Debug\TransmitSharedMemory.csproj.GenerateResource.Cache
+F:\GOOGLEDRIVE\VS_PROJECTS\WORK\Vizrt_SHM\TransmitSharedMemory\TransmitSharedMemory\bin\Debug\TransmitSharedMemory.exe
+F:\GOOGLEDRIVE\VS_PROJECTS\WORK\Vizrt_SHM\TransmitSharedMemory\TransmitSharedMemory\bin\Debug\TransmitSharedMemory.pdb
+F:\GOOGLEDRIVE\VS_PROJECTS\WORK\Vizrt_SHM\TransmitSharedMemory\TransmitSharedMemory\obj\Debug\TransmitSharedMemory.exe
+F:\GOOGLEDRIVE\VS_PROJECTS\WORK\Vizrt_SHM\TransmitSharedMemory\TransmitSharedMemory\obj\Debug\TransmitSharedMemory.pdb
+C:\GoogleDrive\VS_PROJECTS\WORK\Vizrt_SHM\TransmitSharedMemory\TransmitSharedMemory\obj\Debug\TransmitSharedMemory.exe
+C:\GoogleDrive\VS_PROJECTS\WORK\Vizrt_SHM\TransmitSharedMemory\TransmitSharedMemory\obj\Debug\TransmitSharedMemory.pdb
+C:\GoogleDrive\VS_PROJECTS\WORK\Vizrt_SHM\TransmitSharedMemory\TransmitSharedMemory\bin\Debug\TransmitSharedMemory.exe
+C:\GoogleDrive\VS_PROJECTS\WORK\Vizrt_SHM\TransmitSharedMemory\TransmitSharedMemory\bin\Debug\TransmitSharedMemory.pdb
+C:\GoogleDrive\VS_PROJECTS\WORK\Vizrt_SHM\TransmitSharedMemory\TransmitSharedMemory\obj\Debug\TransmitSharedMemory.csprojResolveAssemblyReference.cache
+C:\GoogleDrive\VS_PROJECTS\WORK\Vizrt_SHM\TransmitSharedMemory\TransmitSharedMemory\obj\Debug\TransmitSharedMemory.Properties.Resources.resources
+C:\GoogleDrive\VS_PROJECTS\WORK\Vizrt_SHM\TransmitSharedMemory\TransmitSharedMemory\obj\Debug\TransmitSharedMemory.TransmitToViz.resources
+C:\GoogleDrive\VS_PROJECTS\WORK\Vizrt_SHM\TransmitSharedMemory\TransmitSharedMemory\obj\Debug\TransmitSharedMemory.csproj.GenerateResource.Cache
+C:\GoogleDrive\VS_PROJECTS\WORK\Vizrt_SHM\TransmitSharedMemory\TransmitSharedMemory\obj\Debug\TransmitSharedMemory.csproj.CoreCompileInputs.cache

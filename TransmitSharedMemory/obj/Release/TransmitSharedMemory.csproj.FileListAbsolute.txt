@@ -1,0 +1,9 @@
+C:\GoogleDrive\VS_PROJECTS\WORK\Vizrt_SHM\TransmitSharedMemory\TransmitSharedMemory\bin\Release\TransmitSharedMemory.exe
+C:\GoogleDrive\VS_PROJECTS\WORK\Vizrt_SHM\TransmitSharedMemory\TransmitSharedMemory\bin\Release\TransmitSharedMemory.pdb
+C:\GoogleDrive\VS_PROJECTS\WORK\Vizrt_SHM\TransmitSharedMemory\TransmitSharedMemory\obj\Release\TransmitSharedMemory.csprojResolveAssemblyReference.cache
+C:\GoogleDrive\VS_PROJECTS\WORK\Vizrt_SHM\TransmitSharedMemory\TransmitSharedMemory\obj\Release\TransmitSharedMemory.Properties.Resources.resources
+C:\GoogleDrive\VS_PROJECTS\WORK\Vizrt_SHM\TransmitSharedMemory\TransmitSharedMemory\obj\Release\TransmitSharedMemory.TransmitToViz.resources
+C:\GoogleDrive\VS_PROJECTS\WORK\Vizrt_SHM\TransmitSharedMemory\TransmitSharedMemory\obj\Release\TransmitSharedMemory.csproj.GenerateResource.Cache
+C:\GoogleDrive\VS_PROJECTS\WORK\Vizrt_SHM\TransmitSharedMemory\TransmitSharedMemory\obj\Release\TransmitSharedMemory.exe
+C:\GoogleDrive\VS_PROJECTS\WORK\Vizrt_SHM\TransmitSharedMemory\TransmitSharedMemory\obj\Release\TransmitSharedMemory.pdb
+C:\GoogleDrive\VS_PROJECTS\WORK\Vizrt_SHM\TransmitSharedMemory\TransmitSharedMemory\obj\Release\TransmitSharedMemory.csproj.CoreCompileInputs.cache
